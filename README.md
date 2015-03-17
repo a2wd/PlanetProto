@@ -2,4 +2,4 @@
 Solutions to the nodeschool Planet-Proto workshopper
 
 ## Understanding JavaScript prototypes
-Thanks to [www.github.com/sporto](@sporto) for their work building this resource
+Thanks to [@sporto](http://www.github.com/sporto) for their work building this resource
